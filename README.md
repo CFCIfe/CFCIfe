@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/3Xw8jY3zbFRtFd6eK8/giphy.gif" width="100"/>
 </div>
 
+###### The most powerful tool we have as developers is automation. - Unknown
+
 <!--
 **CFCIfe/CFCIfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
