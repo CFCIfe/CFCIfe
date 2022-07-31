@@ -5,11 +5,11 @@
 <p align="center">"The most powerful tool we have as developers is automation. - <strong>Unknown</strong>"</p>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/abolude-peter/">
+  <a target="_blank" href="https://www.linkedin.com/in/abolude-peter/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </a>
-  <a href="https://twitter.com/CFCIfe">
+  <a target="_blank" href="https://twitter.com/CFCIfe">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
