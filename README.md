@@ -5,7 +5,7 @@
 <p align="center">"The most powerful tool we have as developers is automation. - <strong>Unknown</strong>"</p>
 
 <div id="badges" align="center">
-  <a href="https://https://www.linkedin.com/in/abolude-peter/">
+  <a href="https://www.linkedin.com/in/abolude-peter/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </a>
