@@ -55,10 +55,9 @@ I am a DevOps engineer currently working as a Technical Support Engineer for Mic
 
 <div id="stats" align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=CFCIFE&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFCIFE&layout=compact&theme=vision-friendly-dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFCIFE&layout=compact&theme=vision-friendly-dark"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Cfcife&show_icons=true&theme=radical"/>
 </div>
-
-![CFCIfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cfcife&show_icons=true&theme=radical)
 
 ---
 
