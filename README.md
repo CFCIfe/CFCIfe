@@ -17,7 +17,8 @@
 <img src="https://komarev.com/ghpvc/?username=CFCIfe&style=flat-square&color=blue" alt="my github badge counter" />
 </div>
 <br />
-<p align="center">  <strong> Hi there 👋, My name is Peter (He/Him)</strong> </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=FFF+Tusj&size=28&duration=10000&pause=3000&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=500&height=81&lines=Hi%2C+My+name+is+Peter;Hit+me+up+for+Devops+Projects)](https://git.io/typing-svg)
 
 ---
 
