@@ -18,8 +18,9 @@
 </div>
 <br />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FFF+Tusj&pause=1000&color=3313F7&center=true&vCenter=true&width=435&lines=Hi%2C+My+name+is+Peter." alt="Typing SVG" /></a>
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FFF+Tusj&center=true&width=380&height=50&duration=4000&pause=1000&lines=Hi%2C+My+name+is+Peter.;Hit+me+up+for+Devops+projects" alt="Typing SVG" /></a>
+</p>
 ---
 
 ### :technologist: **About Me**:
