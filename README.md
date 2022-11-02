@@ -29,7 +29,7 @@ I am a DevOps engineer currently working as a Technical Support Engineer for Mic
 
 - 🌱 I’m currently learning More about DevOps and Automation on AWS and Azure :cloud:
 
-- 🤔 I’m looking for help with writing Blog Posts :pen: and Blockchain :Bitcoin:
+- 🤔 I’m looking for help with writing Blog Posts :pen: and Blockchain ::money_with_wings:
 
 - :infinity: I love Video games :video_game: and Playing chess :chess_pawn:  in my spare time.
 
