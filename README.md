@@ -70,6 +70,11 @@
   </div>
 
   ---
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  
+  ---
 
   <div id="jokes" align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt"/>
