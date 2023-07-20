@@ -72,7 +72,17 @@
   ---
   
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```all_time
+From: 13 July 2023 - To: 19 July 2023
+
+Total Time: 12 mins
+
+YAML       10 mins         >>>>>>>>>>>>>>>>>>>>>----   85.51 %
+Markdown   1 min           >>>>---------------------   14.49 %
+```
+
+<!--END_SECTION:waka-->
   
   ---
 
