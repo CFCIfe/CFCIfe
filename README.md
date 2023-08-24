@@ -28,7 +28,7 @@
 
   ### :technologist: **About Me**:
 
-  I am a DevOps engineer currently working with Eze Wholesale and have experience working as a Technical Support Engineer for Microsoft Azure App Service & DevOps Users.
+  I am a DevOps engineer currently working with Eze Wholesale and have experience working as a Technical Support Engineer for Microsoft Azure App Service & Azure DevOps Users.
 
   - ♾️ Check out for my projects here - https://github.com/DevOps-Learning-CFCIFE
 
