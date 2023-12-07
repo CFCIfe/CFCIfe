@@ -42,7 +42,7 @@
 
   ---
 
-  ### :hammer: Languages and Tools :
+  ### :hammer: **Languages and Tools**:
   <div id="languages" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" height="80"/>&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="80" height="80"/>&nbsp;&nbsp;
