@@ -74,11 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 25 December 2023 - To: 31 December 2023
+From: 01 January 2024 - To: 07 January 2024
 
-Total Time: 0 secs
+Total Time: 39 mins
 
-No activity tracked
+TypeScript   31 mins         >>>>>>>>>>>>>>>>>>-------   73.76 %
+JSON         8 mins          >>>>>--------------------   18.70 %
+Other        3 mins          >>-----------------------   07.53 %
 ```
 
 <!--END_SECTION:waka-->
