@@ -74,20 +74,15 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 29 January 2024 - To: 04 February 2024
+From: 05 February 2024 - To: 11 February 2024
 
-Total Time: 10 hrs 40 mins
+Total Time: 6 hrs 9 mins
 
-Python       4 hrs 17 mins   >>>>>>>>>>---------------   40.03 %
-TypeScript   3 hrs 50 mins   >>>>>>>>>----------------   35.88 %
-JSON         49 mins         >>-----------------------   07.71 %
-JavaScript   23 mins         >------------------------   03.70 %
-INI          17 mins         >------------------------   02.77 %
-HTML         16 mins         >------------------------   02.53 %
-Bash         15 mins         >------------------------   02.44 %
-Prisma       12 mins         -------------------------   01.89 %
-Text         5 mins          -------------------------   00.86 %
-Git Config   4 mins          -------------------------   00.74 %
+Python       4 hrs 43 mins   >>>>>>>>>>>>>>>>>>>------   75.28 %
+JSON         45 mins         >>>----------------------   12.07 %
+TypeScript   14 mins         >------------------------   03.91 %
+CSV          11 mins         >------------------------   03.09 %
+Other        6 mins          -------------------------   01.81 %
 ```
 
 <!--END_SECTION:waka-->
