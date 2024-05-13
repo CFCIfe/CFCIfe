@@ -74,12 +74,12 @@
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 28 April 2024 - To: 05 May 2024
+From: 05 May 2024 - To: 12 May 2024
 
-Total Time: 1 hr 38 mins
+Total Time: 4 hrs 17 mins
 
-TypeScript   1 hr 35 mins    >>>>>>>>>>>>>>>>>>>>>----   83.93 %
-Other        14 mins         >>>----------------------   13.21 %
+TypeScript   3 hrs 38 mins   >>>>>>>>>>>>>>>>>>>------   74.83 %
+Other        35 mins         >>>----------------------   12.02 %
 ```
 
 <!--END_SECTION:waka-->
