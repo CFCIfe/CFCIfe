@@ -74,15 +74,15 @@ I am a Backend Developer and self-taught DevOps Engineer with experience as a Te
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 14 July 2024 - To: 21 July 2024
+From: 21 July 2024 - To: 28 July 2024
 
-Total Time: 7 hrs 17 mins
+Total Time: 25 hrs 20 mins
 
-TypeScript   3 hrs 53 mins   >>>>>>>>>>>>>------------   53.36 %
-Markdown     3 hrs 2 mins    >>>>>>>>>>---------------   41.63 %
-JSON         21 mins         >------------------------   04.87 %
-JavaScript   0 secs          -------------------------   00.08 %
-Other        0 secs          -------------------------   00.07 %
+TypeScript   19 hrs 28 mins  >>>>>>>>>>>>>>>>>>>------   75.13 %
+Markdown     3 hrs 8 mins    >>>----------------------   12.11 %
+Bash         1 hr 1 min      >------------------------   03.96 %
+JSON         49 mins         >------------------------   03.16 %
+Other        35 mins         >------------------------   02.27 %
 ```
 
 <!--END_SECTION:waka-->
