@@ -11,10 +11,6 @@
     <a target="_blank" href="https://www.linkedin.com/in/abolude-peter/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    </a>
-    <a target="_blank" href="https://twitter.com/CFCIfe">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=CFCIfe&style=flat-square&color=blue" alt="my github badge counter" />
