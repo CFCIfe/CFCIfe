@@ -17,10 +17,6 @@
   </div>
   <br />
 
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FFF+Tusj&center=true&width=380&height=50&duration=4000&pause=1000&lines=Hi%2C+My+name+is+Peter.;Hit+me+up+for+Devops+projects.;I'm+open+to+learning." alt="Typing SVG" /></a>
-  </p>
-
 ### :technologist: **About Me**:
 
 I am a Backend Developer and self-taught DevOps Engineer with experience as a Technical Support Engineer for Microsoft Azure App Service and Azure DevOps users.
