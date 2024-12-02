@@ -66,7 +66,7 @@ I am a Backend Developer and self-taught DevOps Engineer with experience as a Te
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 17 November 2024 - To: 24 November 2024
+From: 24 November 2024 - To: 01 December 2024
 
 Total Time: 0 secs
 
