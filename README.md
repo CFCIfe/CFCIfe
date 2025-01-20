@@ -66,16 +66,12 @@ I am a Backend Developer and self-taught DevOps Engineer with experience as a Te
   <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 January 2025 - To: 12 January 2025
+From: 12 January 2025 - To: 19 January 2025
 
-Total Time: 4 hrs 25 mins
+Total Time: 1 hr 40 mins
 
-Terraform    4 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.09 %
-TypeScript   4 mins          -------------------------   01.75 %
-Git Config   2 mins          -------------------------   00.76 %
-Markdown     0 secs          -------------------------   00.14 %
-HCL          0 secs          -------------------------   00.14 %
-Other        0 secs          -------------------------   00.13 %
+Terraform   1 hr 30 mins    >>>>>>>>>>>>>>>>>>>>>>>--   90.44 %
+HCL         9 mins          >>-----------------------   09.56 %
 ```
 
 <!--END_SECTION:waka-->
